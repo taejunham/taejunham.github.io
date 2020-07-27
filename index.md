@@ -1,0 +1,1390 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56126803-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-56126803-1');
+    </script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1,requiresActiveX=true">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,&nbsp; initial-scale=1,&nbsp; maximum-scale=1,&nbsp; user-scalable=0"/> 
+    <title> Tae Jun Ham :: Post Doctoral Researcher in Seoul National University </title>
+    <meta name="description" content="Tae Jun Ham's personal webpage">
+    
+    <meta name="theme-color" content="#ffffff">
+    <!-- /// Template CSS ////////  -->
+    <link rel="stylesheet" href="_layout/css/base.css">
+    <link rel="stylesheet" href="_layout/css/grid.css">
+    <link rel="stylesheet" href="_layout/css/elements_minimal.css">
+    <link rel="stylesheet" href="_layout/css/layout.css">
+
+<!-- /// JS Plugins CSS ////////  -->
+<!-- <link rel="stylesheet" href="_layout/js/bxslider/jquery.bxslider.css">
+<link rel="stylesheet" href="_layout/js/magnificpopup/magnific-popup.css"> -->
+
+<!-- /// Skin CSS ////////  -->
+<!-- <link rel="stylesheet" href="_layout/css/skins/default.css"> 
+ -->
+<!-- /// Google Fonts ////////  -->
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Oswald:400,700">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700">
+
+<!-- /// FontAwesome Icons 4.0.3 ////////  -->
+<link rel="stylesheet" href="_layout/css/fontawesome/font-awesome2.min.css">
+
+<!-- /// Custom Icon Font ////////  -->
+<link rel="stylesheet" href="_layout/css/iconfontcustom/icon-font-custom2.css">
+
+<!-- /// Cross-browser CSS3 animations ////////  -->
+<link rel="stylesheet" href="_layout/css/animate/animate.min.css">
+
+<!-- /// Modernizr ////////  -->
+<script src="_layout/js/modernizr-2.6.2.min.js"></script>
+
+</head>
+<body>
+
+<!--     <div id="pageloader">
+        <div class="loader-img">
+        
+            <img src="_layout/images/loader.gif" alt=""> 
+        
+        </div>
+    </div> -->
+ 
+    <div id="wrap">
+        
+        <div id="header">
+        
+        <!-- /// HEADER  //////////////////////////////////////////////////////////////////////////////////////////////////////////// -->                   
+            <!--            
+            <div class="parallax full-screen" style="background-image:url(_content/backgrounds/1920x1280.jpg);">
+                
+                <div class="parallax-content full-screen">
+                
+                    <div class="parallax-overlay" style="background-image:url(_content/backgrounds/pattern.png);"></div>
+                    
+                    <div class="parallax-content-inner">
+                    
+                        <div class="row">
+                            <div class="span12 text-center">
+                                
+                                <div class="headline">
+                                    
+                                    <h1>Tae Jun Ham</h1>
+                                    <p><span>Senior Graphic Designer</span></p>
+                                    
+                                </div>
+                                                                                                
+                            </div>
+                        </div>
+                    
+                    </div>
+                    
+                    <a href="#personal-profile">
+                        <i class="ifc-down4"></i>
+                    </a>
+                
+                </div><     
+                
+           </div>
+           --> 
+            <div id="nav">
+                <div class="row">
+                    <div class="span3">
+                    
+                        <!-- // Logo // -->
+                        <a href="index.html" id="logo">
+                            Tae Jun Ham
+                        </a>
+                    
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                    
+                        <a href="#" id="mobile-menu-trigger">
+                            <i class="fa fa-bars"></i>
+                        </a>
+                        
+                        <!-- // Menu // -->
+                        <ul class="sf-menu" id="menu">
+                            <li>
+                                <a href="#tag1">Personal Details</a>
+                            </li>
+                            <!--<li> 
+                                <a href="#tag21">Current Position</a> 
+                            </li>-->
+                            <li> 
+                                <a href="#tag2">Education</a> 
+                            </li>
+                            <li>
+                                <a href="#tag3">Publications</a>
+                            </li>
+                            <li>
+                                <a href="#tag4">Work Experience</a>
+                            </li>
+                            <!-- <li> 
+                                <a href="#tag22">Research Mentoring</a> 
+                            </li>-->
+                            <li>
+                                <a href="#tag5">Miscellaneous</a>
+                            </li>
+                            <li>
+                                <a href="cv.pdf">CV</a>
+                            </li>
+                        </ul>
+    
+                    </div><!-- end .span9 -->
+                </div><!-- end .row --> 
+                
+            </div><!-- end #nav -->
+
+        <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+        </div><!-- end #header -->
+        <div id="content">
+        
+        <!-- /// CONTENT  /////////////////////////////////////////////////////////////////////////////////////////////////////////// -->                       
+            <a class= "anchor" id="tag1"></a>         
+            <div id="personal-profile">
+                <div class="row">
+                    <div class="span12 text-center">
+                         <div class="headline">
+                             <p><span>Who am I?</span></p>
+                            <h1>Personal Details</h1>
+                         </div><!-- end .headline -->
+                    </div><!-- end .span12 -->
+ 
+                </div><!-- end .row -->
+                
+                <div class="row">
+                    <div class="span1">         
+                     <!--<img class="responsive-img" src="_content/270x270.png" width=200 height=200 alt="">-->
+                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="10" alt="" />
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span5">
+                        
+                        <ul class="personal-details">
+                            <li>Name: Tae Jun Ham</li>
+                            <!-- <li>Date of birth: July 8,&nbsp; 1990</li>-->
+                            <li><a href="https://scholar.google.com/citations?user=q4qNHBsAAAAJ&hl=en">[Google Scholar]</a> / <a href="https://www.linkedin.com/in/taejunham/">[Linkedin]</a> </li>
+                            <!-- 
+                            <li>Phone: (919)-794-1870 </li>-->
+                            <li>
+                                Office : Building 944,&nbsp; Seoul National University,&nbsp; Korea
+                            </li>
+                            <li>
+                                Email: 
+                                <a href="mailto:ham.taejun@gmail.com">ham.taejun (at) gmail.com</a>
+                            </li>
+                        </ul>
+                        
+                    </div><!-- end .span4 -->
+                    <div class="span5">
+                        
+                        <h3 class="text-uppercase">About Me</h3>
+                        
+                        <p>Tae Jun is currently a postdoctoral researcher at Seoul National University. Tae Jun received his B.S.E degree from Duke University and received his masters and Ph.D. in Electrical Engineering from Princeton University under the supervision of Professor Margaret Martonosi. His main research area includes hardware-software co-design for emerging applications and data access optimizations across systems and architectures. He is the recipient of Best Paper Award in MICRO-49, IEEE Micro Top Picks Honorable Mention in 2016, and Best Paper Award Nomination in ISPASS 2020. He is also the recipient of Samsung Scholarship 2012-2017.
+                         </p> 
+                    </div><!-- end .span5 -->
+                    <!-- end .span3 -->
+                </div><!-- end .row -->
+            
+            </div><!-- end #personal-profile -->
+                
+               <a class= "anchor" id="tag2"></a>  
+               <div id="education">
+                <div class="row">
+                    <div class="span12 text-center">
+                   
+                        <div class="headline">
+                            
+                            <p><span>Postdoctoral Researcher</span></p>
+                            <h1>Current Position</h1>
+                            
+                        </div><!-- end .headline -->
+                        
+                    </div><!-- end .span12 -->
+                </div><!-- end .row -->
+                
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    2018
+                                    <small>July</small>
+                                </span>
+                                -
+                                <span>
+                                    Present
+                                    <small></small>
+            
+                                </span>
+                            </h1>
+                            
+                        
+                            <h3 style="margin-bottom:0px"> Postdoctoral Researcher</h3>
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            <h3 class="text-uppercase">Seoul National University<span style="font-size:12pt; color: #5f5f5f; font-family: 'PT Sans Narrow',&nbsp; sans-serif; text-transform: capitalize"> Seoul,&nbsp; South Korea</span></h3>
+                            <span style="font-weight:700">Supervisor:</span> <a href="https://cse.snu.ac.kr/en/professor/jae-wook-lee">Professor Jae W. Lee</a> <br>
+                            <span style="font-weight:700">Research Topics:</span> Software-hardware co-design for emerging applications,&nbsp; and data access optimizations across systems and architectures. <br>
+                            This position also fulfills <span style="font-weight:700">mandatory military service duty</span> required for all Korean men.
+                            </p>
+                        </div><!-- end .cv-item -->
+                       
+                    </div><!-- end .span9 -->
+                    
+                </div><!-- end .cv-section -->
+            </div><!-- end #education -->
+             <a class= "anchor" id="tag2"></a>  
+               <div id="education">
+                <div class="row">
+                    <div class="span12 text-center">
+                   
+                        <div class="headline">
+                            
+                            <p><span>My Education</span></p>
+                            <h1>Education</h1>
+                            
+                        </div><!-- end .headline -->
+                        
+                    </div><!-- end .span12 -->
+                </div><!-- end .row -->
+                
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    2012
+                                    <small>September</small>
+                                </span>
+                                -
+                                <span>
+                                    2018
+                                    <small> June </small>
+            
+                                </span>
+                            </h1>
+                            
+                        
+                            <h3 style="margin-bottom:0px"> Doctor of Philosophy</h3>
+                            <h3 style="margin-top:-5px">Master of Arts</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            <h3 class="text-uppercase">Princeton University<span style="font-size:12pt; color: #5f5f5f; font-family: 'PT Sans Narrow',&nbsp; sans-serif; text-transform: capitalize"> Princeton,&nbsp; New Jersey,&nbsp; USA</span></h3>
+                            <p> Ph.D in Electrical Engineering <br>
+                            Advisors : <a href="http://www.princeton.edu/~mrm/">Margaret Martonosi</a> and <a href="http://ditec.um.es/~jlaragon/">Juan Luis Aragon</a> <br>
+                            Dissertation : Efficient data accesses in accelerator-based heterogeneous architecture
+                            
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                       
+                    </div><!-- end .span9 -->
+                    
+                </div><!-- end .cv-section -->
+                
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        <!-- <div style="height:120px">-->
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    2009
+                                    <small>September</small>
+                                </span>
+                                -
+                                <span>
+                                    2011
+                                    <small>December</small>
+                                </span>
+                            </h1>
+                            
+                            
+                            <h3 style="margin-bottom:0px"> Bachelor of Science</h3>
+                            <h3 style="margin-top:-10px">in Engineering</h3> 
+                        </div><!-- end .cv-section-title -->
+                        <!-- </div>-->
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase">Duke University <span style="font-size:12pt; color: #5f5f5f; font-family: 'PT Sans Narrow',&nbsp; sans-serif; text-transform: capitalize"> Durham,&nbsp; North Carolina,&nbsp; USA</span></h3>
+                            
+                            <p>Bachelor of Science in Electrical and Computer Engineering (GPA : 3.95 / 4.00)
+                            <br> <span style="font-style:italic">Summa Cum Laude with Distinction in Electrical and Computer Engineering</span>
+                            <br>
+                            <br>
+                            </p>
+             
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                    
+                </div><!-- end .cv-section -->
+                
+            </div><!-- end #education -->
+            <a class= "anchor" id="tag3"></a>
+            <div id="publications"> 
+                <div class="row">
+                    <div class="span12 text-center">
+                        
+                        <div class="headline">
+                            
+                            <p><span>Academic Researches</span></p>
+                            <h1>Publications</h1>
+                            
+                        </div><!-- end .headline -->
+                        
+                    </div><!-- end .span12 -->
+                </div><!-- end .row -->
+                <div class="row cv-section">
+                    <div class="span3">
+                        <div class="cv-section-title">
+                            <h1>
+                               <span>
+                                    ICCAD 
+                                </span>
+                                <span>
+                                    2020
+                                    <small>November</small>
+                                </span>
+                            </h1>
+                            <h3>Virtual Conference</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Unlocking Wordline-level Parallelism for Fast Inference on RRAM-based DNN Accelerator [To Appear]</a></h3>
+                            <p>
+                                Yeonhong Park,&nbsp; Seung Yul Lee,&nbsp; Hoon Shin,&nbsp; Jun Heo,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee<br>
+                                The 39th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)<br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    <div class="span3">
+                        <div class="cv-section-title">
+                            <h1>
+                               <span>
+                                    MICRO 
+                                </span>
+                                <span>
+                                    2020
+                                    <small>October</small>
+                                </span>
+                            </h1>
+                            <h3>Virtual Conference</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Graphene: Strong yet Lightweight Row Hammer Protection [To Appear]</a></h3>
+                            <p>
+                                Yeonhong Park,&nbsp; Woosuk Kwon, &nbsp; Eojin Lee,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jung Ho Ahn,&nbsp; Jae W. Lee<br>
+                                The 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO)<br>
+                                Acceptance rate: 82/424=19(%) <br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                               <span>
+                                    ISPASS 
+                                </span>
+                                <span>
+                                    2020
+                                    <small>August</small>
+                                </span>
+                            </h1>
+                            <h3>Boston,&nbsp; USA</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            MosaicSim:  A Lightweight,&nbsp; Modular Simulator for Heterogeneous Systems <a href="mosaicsim_ispass2020.pdf">[Link]</a><a href="https://arxiv.org/abs/2004.07415">[Extended Technical Report]</a></h3>
+                            <p>
+                                Opeoluwa  Matthews,&nbsp; Aninda Manocha,&nbsp; Davide Giri,&nbsp; Marcelo Orenes-Vera,&nbsp; Esin Tureci,&nbsp; Tyler Sorensen,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Juan L. Aragon,&nbsp; Luca P. Carloni,&nbsp; Margaret Martonosi<br>
+                                IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)<br>
+                                Acceptance rate: 25/73=34(%) <br>
+                                <span style="font-weight:900"> Best Paper Award Nominee</span>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    <div class="span3">
+                        <div class="cv-section-title">
+                            <h1>
+                               <span>
+                                    ISCA 
+                                </span>
+                                <span>
+                                    2020
+                                    <small>June</small>
+                                </span>
+                            </h1>
+                            <h3>Valencia,&nbsp; Spain</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Genesis: A Hardware Acceleration Framework for Genomic Data Analysis</a> <a href="genesis_isca2020.pdf">[Link]</a></h3>
+                            <p>
+                                <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; David Bruns-Smith,&nbsp; Brendan Sweeney,&nbsp; Yejin Lee,&nbsp; Seong Hoon Seo,&nbsp; U Gyeong Song,&nbsp; Young H. Oh,&nbsp; Krste Asanovic,&nbsp; Jae W. Lee,&nbsp; Lisa Wu<br>
+                                The 47th ACM/IEEE International Symposium on Computer Architecture (ISCA)<br>
+                                Acceptance rate: 77/428=18(%) <br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    <div class="span3">
+                        <div class="cv-section-title">
+                            <h1>
+                               <span>
+                                    ISCA 
+                                </span>
+                                <span>
+                                    2020
+                                    <small>June</small>
+                                </span>
+                            </h1>
+                            <h3>Valencia,&nbsp; Spain</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            A Specialized Architecture for Object Serialization with Applications to Big Data Analytics</a> <a href="cereal_isca2020.pdf">[Link]</a></h3>
+                            <p>
+                                Jaeyoung Jang,&nbsp; Sung Jun Jung,&nbsp; Sunmin Jeong,&nbsp; Jun Heo,&nbsp; Hoon Shin,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee<br>
+                                The 47th ACM/IEEE International Symposium on Computer Architecture (ISCA)<br>
+                                Acceptance rate: 77/428=18(%) <br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    <div class="span3">
+                        <div class="cv-section-title">
+                            <h1>
+                               <span>
+                                    ISCA 
+                                </span>
+                                <span>
+                                    2020
+                                    <small>June</small>
+                                </span>
+                            </h1>
+                            <h3>Valencia,&nbsp; Spain</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            A Case for Hardware-based Demand Paging </a><a href="hardware_paging_isca2020.pdf">[Link]</a></h3>
+                            <p>
+                                Gyusun Lee*,&nbsp; Wenjing Jin*,&nbsp; Wonsuk Song,&nbsp; Jeonghun Gong,&nbsp; Jonghyun Bae,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee,&nbsp; Jinkyu Jeong<br>
+                                The 47th ACM/IEEE International Symposium on Computer Architecture (ISCA)<br>
+                                Acceptance rate: 77/428=18(%) <br>
+                                (*Equal Contributions) <br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+
+                
+                 <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                               <span>
+                                    ASPLOS 
+                                </span>
+                                <span>
+                                    2020
+                                    <small>March</small>
+                                </span>
+                            </h1>
+                            <h3>Lausanne,&nbsp; Switzerland</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            IIU: Specialized Architecture for Inverted Index Search <a href="iiu_asplos2020.pdf">[Link]</a></h3>
+                            <p>
+                                Jun Heo,&nbsp; Jaeyeon Won,&nbsp; Yejin Lee,&nbsp; Shivam Bharuka,&nbsp; Jaeyoung Jang,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee<br>
+                                The 25th ACM International Conference on Architectural Support for  Programming Languages and Operating Systems (ASPLOS)<br>
+                                Acceptance rate: 86/476=18(%) <br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                               <span>
+                                    HPCA 
+                                </span>
+                                <span>
+                                    2020
+                                    <small>February</small>
+                                </span>
+                            </h1>
+                            <h3>San Diego,&nbsp; USA</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            A<sup>3</sup>: Accelerating Neural Network Attention Mechanism with Approximation <a href="a3_hpca2020.pdf">[Link]</a> <a href="a3_slide_hpca2020.pptx">[Slide]</a></h3>
+                            <p>
+                                <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Sung Jun Jung,&nbsp; Seonghak Kim,&nbsp; Young H. Oh,&nbsp; Yoon Ho Song,&nbsp; Junghoon Park,&nbsp; Sanghee Lee,&nbsp; Kyoung Park,&nbsp; Jae W. Lee,&nbsp; Deog-Kyoon Jeong<br>
+                                The 26th IEEE International Symposium on High Performance Computer Architecture (HPCA)<br>
+                                Acceptance rate: 48/235=20(%) <br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                               <span>
+                                    MICRO 
+                                </span>
+                                <span>
+                                    2019
+                                    <small>October</small>
+                                </span>
+                            </h1>
+                            <h3>Columbus,&nbsp; USA</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Charon: Specialized Near-Memory Processing Architecture for Clearing Dead Objects in Memory <a href="charon_micro19.pdf">[Link]</a></h3>
+                            <p>
+                                Jaeyoung Jang,&nbsp; Jun Heo,&nbsp; Yejin Lee,&nbsp; Jaeyeon Won,&nbsp; Seonghak Kim,&nbsp; Sung Jun Jung,&nbsp; Hakbeom Jang,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee<br>
+                                The 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO)<br>
+                                Acceptance rate: 79/344=23(%) <br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    IEEE Micro 2019 
+                                </span>
+                                <span>
+                                </span>
+                            </h1>
+                            <h3>Sep/Oct 2019</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            SSDStreamer: Specializing I/O Stack for Large-Scale Machine Learning <a href="streamer_ieeemicro19.pdf">[Link]</a></h3>
+                            <p>
+                                Jonghyun Bae,&nbsp; Hakbeom Jang,&nbsp; Jeonghun Gong,&nbsp; Wenjing Jin,&nbsp; Shine Kim,&nbsp; Jaeyoung Jang,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jinkyu Jeong,&nbsp; Jae W. Lee<br>
+                                IEEE Micro,&nbsp; Sep/Oct 2019 <br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    ATC 
+                                </span>
+                                <span>
+                                    2019
+                                    <small>July</small>
+                                </span>
+                            </h1>
+                            <h3>Renton,&nbsp; USA</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Asynchronous I/O Stack: A Low-latency Kernel I/O Stack for Ultra-Low Latency SSDs <a href="aio_atc19.pdf">[Link]</a></h3>
+                            <p>
+                                Gyusun Lee,&nbsp; Seokha Shin,&nbsp; Wonsuk Song,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee,&nbsp; Jinkyu Jeong<br>
+                                2019 USENIX Annual Technical Conference (ATC) <br>
+                                Acceptance rate: 71/356=20(%) <br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    ATC 
+                                </span>
+                                <span>
+                                    2019
+                                    <small>July</small>
+                                </span>
+                            </h1>
+                            <h3>Renton,&nbsp; USA</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Practical Erase Suspension for Modern Low-latency SSDs <a href="es_atc19.pdf">[Link]</a></h3>
+                            <p>
+                                Shine Kim,&nbsp; Jonghyun Bae,&nbsp; Hakbeom Jang,&nbsp; Wenjing Jin,&nbsp; Jeonghun Gong,&nbsp; Seungyeon Lee,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee<br>
+                                2019 USENIX Annual Technical Conference (ATC) <br>
+                                Acceptance rate: 71/356=20(%) <br>
+
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    ACM TACO 
+                                </span>
+                                <span>
+                                </span>
+                            </h1>
+                            <h3> June 2019</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Efficient Data Supply for Parallel Heterogeneous Architectures <a href="mercury_taco19.pdf">[Link]</a></h3>
+                            <p>
+                                <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Juan Luis Aragon,&nbsp; Margaret Martonosi<br>
+                                ACM Transactions on Architecture and Code Optimization (TACO)<br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    ACM TACO 
+                                </span>
+                                <span>
+                                </span>
+                            </h1>
+                            <h3> June 2017</h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Decoupling Data Supply from Computation for Latency-Tolerant Communication in Heterogeneous Architectures <a href="desc_taco17.pdf">[Link]</a></h3>
+                            <p>
+                                <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Juan Luis Aragon,&nbsp; Margaret Martonosi<br>
+                                ACM Transactions on Architecture and Code Optimization (TACO)<br>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    MICRO 
+                                </span>
+                                <span>
+                                    2016
+                                    <small>October</small>
+                                </span>
+                            </h1>
+                            <h3> Taipei,&nbsp; Taiwan </h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Graphicionado: A High-Performance and Energy Efficient Accelerator for Graph Analytics <a href="graphicionado_micro16.pdf">[Link]</a> <a href="graphicionado_slide.pdf">[Slide]</a></h3>
+                            <p>
+                                <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Lisa Wu,&nbsp; Narayanan Sundaram,&nbsp; Nadathur Satish,&nbsp; Margaret Martonosi<br>
+                                The 49th IEEE/ACM International Symposium on Microarchitecture (MICRO) <br>
+                                Acceptance rate: 61/283=22(%) <br>
+                                <span style="font-weight:900"> Best Paper Award</span>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    MICRO 
+                                </span>
+                                <span>
+                                    2015
+                                    <small>December</small>
+                                </span>
+                            </h1>
+                            <h3> Waikiki,&nbsp; USA </h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            DeSC: Decoupled Supply-Compute Communication Management for Heterogeneous Architectures <a href="desc_micro2015.pdf">[Link]</a></h3>
+                            <p>
+                                <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Juan Luis Aragon,&nbsp; Margaret Martonosi<br>
+                                The 48th IEEE/ACM International Symposium on Microarchitecture (MICRO)<br>
+                                Acceptance rate: 61/283=22(%) <br>
+                                <span style="font-weight:900">IEEE MICRO Top Picks Honorable Mention (Top 23 computer architecture papers of 2015)</span><br>
+                                Motivated $5.8million DARPA-funded <a href="https://decades.cs.princeton.edu/">DECADES project</a>
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                
+                <div class="row cv-section">
+                    <div class="span3">
+                        
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    HPCA 
+                                </span>
+                                <span>
+                                    2013
+                                    <small>February</small>
+                                </span>
+                            </h1>
+                            <h3> Shenzhen,&nbsp; China </h3> 
+                            
+                        </div><!-- end .cv-section-title -->
+                        
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase" style="margin-bottom:2px">
+                            Disintegrated control for energy-efficient and heterogeneous memory systems <a href="taejun_hpca2013.pdf">[Link]</a></h3>
+                            
+                            <p>
+                                <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Bharath K.Chelepalli,&nbsp; Neng Xue,&nbsp; Benjamin C.Lee<br>
+                                The 19th IEEE International Symposium on High Performance Computer Architecture (HPCA) <br>
+                                Acceptance rate: 51/249=20(%) 
+                            </p>
+                            
+                        </div><!-- end .cv-item -->
+                        
+                    </div><!-- end .span9 -->
+                    
+                </div><!-- end .cv-section -->
+            </div>
+            <a class= "anchor" id="tag4"></a>
+            <div id="work-experience">  
+                <div class="row">
+                    <div class="span12 text-center">
+                        
+                        <div class="headline">
+                            
+                            <p><span>My Professional Background</span></p>
+                            <h1>Work Experience</h1>
+                            
+                        </div><!-- end .headline -->
+                        
+                    </div><!-- end .span12 -->
+                </div><!-- end .row -->
+                
+                <div class="row cv-section">
+                    <div class="span3"> 
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    2016
+                                    <small>May</small>
+                                </span>
+                                -
+                                <span>2016
+                                    <small>August</small>
+                                </span>
+                            </h1>
+                            
+                            
+                            <h3>Graduate Research Intern</h3>
+                            
+                            
+                        </div><!-- end .cv-section-title -->
+                     
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        
+                        <!--<div style="height:120px">  -->
+                        <div class="cv-item">
+                            <h3 class="text-uppercase">Microsoft Research <span style="font-size:12pt; color: #5f5f5f; font-family: 'PT Sans Narrow',&nbsp; sans-serif; text-transform: capitalize"> Cambridge,&nbsp; UK</span></h3>
+                            
+                            <p>
+                                <span style="font-weight:700">Collaborator:</span> <a href="https://www.microsoft.com/en-us/research/people/svolos/">Stavros Volos</a><br>
+                                Research on an efficient secure memory design with near-data computation
+                            </p>
+                          
+                        </div><!-- end .cv-item -->
+                        <!--</div>-->
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    <div class="span3"> 
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    2015
+                                    <small>May</small>
+                                </span>
+                                -
+                                <span>2015
+                                    <small>November</small>
+                                </span>
+                            </h1>
+                            
+                            
+                            <h3>Graduate Technical Intern</h3>
+                            
+                            
+                        </div><!-- end .cv-section-title -->
+                     
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        
+                        <!--<div style="height:120px">  -->
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase">Intel Labs <span style="font-size:12pt; color: #5f5f5f; font-family: 'PT Sans Narrow',&nbsp; sans-serif; text-transform: capitalize"> Santa Clara,&nbsp; California,&nbsp; USA</span></h3>
+                            
+                            <p>
+                                <span style="font-weight:700">Collaborator:</span> <a href="https://www.lisawuwills.com">Professor Lisa Wu</a> (Now at Duke University) <br>
+                                Research on a custom hardware accelerator for graph analytics application<br>
+                            </p>
+                          
+                        </div><!-- end .cv-item -->
+                        <!--</div>-->
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                <div class="row cv-section">
+                    <div class="span3"> 
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    2013
+                                    <small>June</small>
+                                </span>
+                                -
+                                <span>2013
+                                    <small>August</small>
+                                </span>
+                            </h1>
+                            
+                            
+                            <h3>Co-op Engineer</h3>
+                            
+                            
+                        </div><!-- end .cv-section-title -->
+                     
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        
+                        <!--<div style="height:120px">  -->
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase">AMD Research <span style="font-size:12pt; color: #5f5f5f; font-family: 'PT Sans Narrow',&nbsp; sans-serif; text-transform: capitalize"> Austin,&nbsp; Texas,&nbsp; USA</span></h3>
+                            
+                            <p>
+                                <span style="font-weight:700">Collaborator:</span> <a href="https://www.computermachines.org/joe/index.html">Joseph L. Greathouse</a>,&nbsp; Mitesh Meswani and Nuwan Jayasena<br>
+                                Research on a mobile high-performance energy-efficient heterogeneous system consists of large,
+                                low memory bandwidth processors and small,&nbsp; high memory bandwidth processors. <br>
+                            </p>
+                          
+                        </div><!-- end .cv-item -->
+                        <!--</div>-->
+                    </div><!-- end .span9 -->
+                </div><!-- end .cv-section -->
+                
+                <div class="row cv-section">
+                    
+                    <div class="span3">
+                        <!--<div style="height:115px">  -->
+                        <div class="cv-section-title">
+
+                            <h1>
+                                <span>
+                                    2012
+                                    <small>June</small>
+                                </span>
+                                -
+                                <span>
+                                    2012
+                                    <small>August</small>
+                                </span>
+                            </h1>
+                            
+                            
+                            <h3>Research Intern</h3>
+                 
+                            
+                        </div><!-- end .cv-section-title -->
+                        <!-- </div>-->
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        
+                        <!--<div style="height:115px">  -->
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase">Samsung Advanced Institute of Technology <span style="font-size:12pt; color: #5f5f5f; font-family: 'PT Sans Narrow',&nbsp; sans-serif; text-transform: capitalize"> Seoul,&nbsp; Republic of Korea</span></h3>
+                            
+                            <p>
+                                <span style="font-weight:700">Collaborator:</span> Woong Seo and Yeon-Gon Cho<br>
+                                Research on various techniques to reduce the performance/energy impact of GPU branch/memory divergence. <br>
+                            </p>
+                           
+                            
+                        </div><!-- end .cv-item -->
+                        <!--</div>>-->
+                    </div><!-- end .span9 -->
+                </div>
+                <div class="row cv-section">
+                
+                    <div class="span3">
+                        <!-- <div style="height:115px"> -->
+                        <div class="cv-section-title">
+    
+                            <h1>
+                                <span>
+                                    2011
+                                    <small>January</small>
+                                </span>
+                                -
+                                <span>
+                                    2012
+                                    <small>May</small>
+                                </span>
+                            </h1>
+                            
+                            
+                            <h3>Research Assistant</h3>
+                 
+                            
+                        </div><!-- end .cv-section-title -->
+                        <!--</div>-->
+                    </div><!-- end .span3 -->
+                    <div class="span9">
+                        
+                       <!-- <div style="height:115px">  -->
+                        <div class="cv-item">
+                            
+                            <h3 class="text-uppercase">Systems Architecture Integration Lab. <span style="font-size:12pt; color: #5f5f5f; font-family: 'PT Sans Narrow',&nbsp; sans-serif; text-transform: capitalize"> Duke University,&nbsp; Durham,&nbsp; North Carolina,&nbsp; USA</span></h3>
+                            
+                            <p>
+                                <span style="font-weight:700">Advisor</span>: <a href="http://people.duke.edu/~bcl15/">Professor Benjamin. C. Lee</a><br>
+                                Research on efficient control and management of the heterogeneous memory system.   <br>
+                            </p>
+                           
+                            
+                        </div><!-- end .cv-item -->
+                    <!--</div>-->
+                </div><!-- end .span9 -->
+                    
+                </div><!-- end .cv-section -->
+            </div>
+            <div id="skills">
+                <a class= "anchor" id="tag5"></a>   
+                <div class="row">
+                    <div class="span12 text-center">
+                        
+                        <div class="headline">
+                            <h1>Honors,&nbsp; Patents,&nbsp; and Activities</h1>
+                        </div><!-- end .headline -->
+                        
+                    </div><!-- end .span12 -->
+                </div><!-- end .row -->
+                
+                <div class="row">
+                    <div class="span1">
+                        <h2 class ="text-uppercase">&nbsp;</h2>
+                    </div>
+                    <div class="span5">
+                        <h2 class="text-uppercase">Honors and Awards</h2>
+                        <h3 style="margin-top:-25px; margin-bottom:0px"> ISPASS Best Paper Award Nominee (2020) </h3>
+                        <p> MosaicSim paper is selected as the Best Paper Nominee in ISPASS 2020</p>
+                        <h3 style="margin-top:-25px; margin-bottom:0px"> MICRO-49 Best Paper Award (2016) </h3>
+                        <p> Graphicionado paper is selected as the Best Paper in MICRO 2016</p>
+                        <h3 style="margin-top:-25px; margin-bottom:0px"> IEEE MICRO Top Picks Honorable Mention (2016) </h3>
+                        <p> DeSC paper is selected as one of top 23 computer architecture papers of 2015</p>
+                        <h3 style="margin-top:-15px; margin-bottom:-5px"> Facebook Graduate Fellowship Finalist (2016) </h3>
+                        <p> </p>
+                        <h3 style="margin-top:-15px; margin-bottom:-5px"> Gordon Y.S. Wu Fellowship (2012-2017),&nbsp; Princeton University </h3>
+                        <p> Prestigious award given to top incoming graduate students. </p>
+                        
+                        <h3 style="margin-top:-15px; margin-bottom:-5px"> Samsung Scholarship (2012-2017)</h3>
+                        <p> Prestigious award given to Korean students studying in US. Up to $50,000 per year for five years of graduate studies. </p>
+                        <h3 style="margin-top:-15px;  margin-bottom:-5px"> Summa Cum Laude (2011),&nbsp; Duke University </h3>
+                        <p> Latin honor given to top graduates of the class </p>
+                        <!--<h3 style="margin-top:-15px;  margin-bottom:-5px"> Tau Beta Pi  (2011) </h3>
+                        <p> National engineering honor society </p>
+                        <h3 style="margin-top:-15px;  margin-bottom:-5px"> Eta Kappa Nu  (2011) </h3>
+                        <p> IEEE electrical and computer engineering honor society </p>-->
+                       <!-- <h3 style="margin-top:-15px;  margin-bottom:-5px"> Duke University ECE Undergraduate Research Poster Session Award (2011) </h3>
+                        <p> Award given to the best poster presented in the annual department research poster session. </p>-->
+                        <h2 class="text-uppercase"> Invited Talks </h2>
+                        <h3 style="margin-top:-25px; margin-bottom:0px"> DARPA HIVE PI Meeting - Portland,&nbsp; USA (Oct 2017) </h3>
+                        <p> Graphicionado: A High-Performance and Energy Efficient Accelerator for Graph Analytics </p>
+                        <h3 style="margin-top:-20px; margin-bottom:0px"> KAIST,&nbsp; POSTECH - South Korea (Sep 2017) </h3>
+                        <p> DeSC: Decoupling Data Supply from Computation for Latency-Tolerant Communication in Heterogeneous Architectures</p>
+                        <h3 style="margin-top:-20px; margin-bottom:0px"> HiPEAC - Bologna,&nbsp; Italy (Jan 2020) </h3>
+                        <p> Efficient Data Supply for Parallel Heterogeneous Architectures</p>
+                        
+                        <h2 class="text-uppercase"> Patents </h2>
+                        
+                        <div class="row" style="margin-top:-25px">
+                            <h4 style="margin-top:-10px; margin-bottom:-3px; line-height:1.6"> Instruction,&nbsp; Circuits,&nbsp; and Logic for Graph Analytics Acceleration <br> (US20170286122A1; WO/2017/172173)</h4>
+                            <p> with Lisa Wu,&nbsp; Nadathur Satish,&nbsp; and Narayanan Sundaram </p>  
+                        </div><!-- end .row -->
+                        <div class="row" style="margin-top:-5px">
+                            <h4 style="margin-top:-10px; margin-bottom:-3px; line-height:1.6"> Method For Accelerating Candidate Selection based on Similarity and Accelerator for Performing Candidate Selection <br> (Pending - Application No. 16/270.054)</h4>
+                            <p> with Jae W. Lee,&nbsp; Deog-Kyoon Jeong,&nbsp; Seonghak Kim,&nbsp; Sung Jun Jung,&nbsp; and Minsoo Lim</p>  
+                        </div><!-- end .row -->
+                        <div class="row" style="margin-top:-5px">
+                            <h4 style="margin-top:-10px; margin-bottom:-3px; line-height:1.6"> Hardware Accelerator Performing Search using Inverted Index Structure and Search System including the Hardware Accelerator (Pending)</h4>
+                            <p> with Jae W. Lee,&nbsp; Jun Heo,&nbsp; Jaeyeon Won,&nbsp; and Yejin Lee </p>  
+                        </div><!-- end .row -->
+                        <div class="row" style="margin-top:-5px">
+                            <h4 style="margin-top:-10px; margin-bottom:-3px; line-height:1.6"> Scheduler, Method for Operating the same and Neural Network Accelerator System including the same <br> (Pending)</h4>
+                            <p> with Jae W. Lee,&nbsp; Young H. Oh,&nbsp; and Seonghak Kim</p>  
+                        </div><!-- end .row -->
+                        <div class="row" style="margin-top:-5px">
+                            <h4 style="margin-top:-10px; margin-bottom:-3px; line-height:1.6"> Hardware-based Demand Paging Technique (Pending)</h4>
+                            <p> with Jinkyu Jeong,&nbsp; Jae W. Lee,&nbsp; Gyusun Lee,&nbsp; and Wenjing Jin </p>  
+                        </div><!-- end .row -->
+                        
+                    </div><!-- end .span7 -->
+                    
+                    <div class="span6">
+                        
+                        
+                        
+                        <!--
+                        <div class="row" style="margin-top:-25px">
+                            <ul class="pin">                                    
+                                    <li>Computer Architecture</li>
+                                    <li>Advanced Computer Architecture</li>
+                                    <li>Parallel Computation </li>
+                                    <li>Operating Systems </li>
+                                    <li>Energy-Efficient Computer Systems</li>
+                                    <li>Fault Tolerant System</li>
+                                    <li>Advanced Digital System Design</li>                                    
+                                    <li>Design of Very Large Integrated Systems</li>
+                                    <li>Advanced Computer Networks </li>
+                            </ul>   
+                        </div>
+                    -->
+                        <!-- end .row -->
+                        <h2 class="text-uppercase" style="margin-top:0px"> Research Mentoring </h2>
+                        <div class="row" style="margin-top:-30px">
+                        I closely work with these students and supervise their work (along with their primary supervisor Jae W. Lee) through frequent (often more than once a week) meetings with each group of students. I provide advices and help on research,&nbsp; technical implementation,&nbsp; and writing. <br>
+                        <h3 class="text-uppercase" style="margin-top:2px;margin-bottom:-4px">Past Mentees</h3>
+                        <span style="font-weight:700">Jaeyoung Jang</span> - Graduated with Ph.D from Sungkyunkwan University (Jul 2018 - Jan 2020)<br>
+                        <h3 class="text-uppercase" style="margin-top:2px;margin-bottom:-4px">Graduate Student Mentees</h3>
+                        <span style="font-weight:700">Young H. Oh</span> - Ph.D Candidate at Seoul National University (Jul 2018 - Present)<br>
+                        <span style="font-weight:700">Jun Heo</span> - Ph.D Candidate at Seoul National University (Jul 2018 - Present)<br>
+                        <span style="font-weight:700">Jonghyun Bae</span> - Ph.D Candidate at Seoul National University (Sep 2018 - Present)<br>
+                        <span style="font-weight:700">Shine Kim</span> - Ph.D Candidate at Seoul National University (Sep 2018 - Present)<br>
+                        <span style="font-weight:700">Wenjing Jin</span> - Ph.D Candidate at Seoul National University (Jan 2019 - Present)<br>
+                        <span style="font-weight:700">Sung Jun Jung</span> - Ph.D Student at Seoul National University (Sep 2018 - Present)<br>
+                        <span style="font-weight:700">Yejin Lee</span> - Ph.D Student at Seoul National University (Jan 2019 - Present)<br>
+                        <span style="font-weight:700">Yeonhong Park</span> - Ph.D Student at Seoul National University (Jun 2019 - Present)<br>
+                        <span style="font-weight:700">Seong Hoon Seo</span> - Ph.D Student at Seoul National University (Jun 2019 - Present)<br>
+                        <h3 class="text-uppercase" style="margin-top:2px;margin-bottom:-4px">Undergraduate Student Mentees</h3>
+                        <span style="font-weight:700">Jaeyeon Won</span> - Undergraduate at Seoul National University (Jan 2019 - Aug 2019; May 2020- Present)<br>
+                        <span style="font-weight:700">Wookyung Song</span> - Undergraduate at Seoul National University (Jun 2019 - Aug 2019)<br>
+                        <span style="font-weight:700">Soosung Kim</span> - Undergraduate at Seoul National University (Jan 2020 - Present)<br>
+                        </div>
+                        <h2 class="text-uppercase" style="margin-top:10px"> Services </h2>
+                        <div class="row" style="margin-top:-30px">
+                        <ul class="pin"> 
+                        <li>Web Chair, International Symposium on Code Generation and Optimization (CGO '21)</li>
+                        </div>
+                        <h2 class="text-uppercase" style="margin-top:10px"> Reviews </h2>
+                            <div class="row" style="margin-top:-30px">
+                            <ul class="pin"> 
+                                    <li>IEEE Transactions on Very Large Scale Integration Systems (TVLSI) - 2015</li>
+                                    <li>IEEE Transactions on Mobile Computing (TMC) - 2016</li>
+                                    <li>IEEE Transactions on Computer (TC) - 2017,&nbsp; 2018,&nbsp; 2020</li>
+                                    <li>IEEE Computer Architecture Letters (CAL) - 2018</li>
+                                    <li>IEEE Micro - 2019</li>
+                                    <li>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) - 2017,&nbsp; 2019 (ERC)</li>
+                                    <li>ACM/IEEE International Symposium on Computer Architecture (ISCA) - 2020</li>
+                                    <li>ACM Transactions on Architecture and Code Optimization (TACO) - 2014</li>
+                                    <li>ACM Transactions on Parallel Computing (TOPC) - 2019</li>
+                                    <li>Elsevier Future Generation Computer Systems (FGCS) - 2019</li>
+                            </ul>
+                        </div>
+                        <h2 class="text-uppercase" style="margin-top:-10px"> Teaching </h2>
+                        
+                        <div class="row" style="margin-top:-30px">
+                            <ul class="pin">                                    
+                                    <li>Teaching Assistant for ELE301 Designing Real Systems (Princeton)</li>
+                            </ul>
+                        </div>
+                    </div><!-- end .span6 -->
+                </div><!-- end .row -->
+                
+            </div><!-- end #skils -->
+            
+        <div id="footer">
+        
+                <!-- /// FOOTER     ///////////////////////////////////////////////////////////////////////////////////////// -->
+        
+                    <div class="row">
+                        <div class="span12" style="height:40px">
+                            <p class="text-center last">Last Updated: March 2020</p>
+                        </div><!-- end .span12 -->
+                    </div><!-- end .row -->
+                    
+                <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+        
+        </div><!-- end #footer -->
+        </div><!-- end #content -->
+        
+    </div><!-- end #wrap -->
+    
+    <a id="back-to-top" href="#">
+        <i class="ifc-up4"></i>
+    </a>
+
+
+    <!-- /// jQuery ////////  -->
+    <script src="_layout/js/jquery-2.1.0.min.js"></script>
+  
+    <!-- /// ViewPort ////////  -->
+    <script src="_layout/js/viewport/jquery.viewport.js"></script>
+    
+    <!-- /// Easing ////////  -->
+    <script src="_layout/js/easing/jquery.easing.1.3.js"></script>
+
+    <!-- /// SimplePlaceholder ////////  -->
+    <script src="_layout/js/simpleplaceholder/jquery.simpleplaceholder.js"></script>
+
+    <!-- /// Fitvids ////////  -->
+    <!-- script src="_layout/js/fitvids/jquery.fitvids.js"></script>-->
+    
+    <!-- /// Superfish Menu ////////  -->
+    <script src="_layout/js/superfish/hoverIntent.min.js"></script>
+    <script src="_layout/js/superfish/superfish.min.js"></script>
+    
+    <!-- /// bxSlider ////////  -->
+    <!-- <script src="_layout/js/bxslider/jquery.bxslider.min.js"></script> -->
+    
+    <!-- /// Magnific Popup ////////  -->
+    <!-- script src="_layout/js/magnificpopup/jquery.magnific-popup.min.js"></script>-->
+    
+    <!-- /// Isotope ////////  -->
+    <!-- <script src="_layout/js/isotope/isotope.pkgd.min.js"></script>
+    <script src="_layout/js/isotope/imagesloaded.pkgd.min.js"></script>-->
+    
+    <!-- /// Parallax ////////  -->
+    <!--     <script src="_layout/js/parallax/jquery.parallax.min.js"></script>
+    -->    
+    <!-- /// EasyPieChart ////////  -->
+    <!-- <script src="_layout/js/easypiechart/jquery.easypiechart.min.js"></script>-->
+    
+    <!-- /// Easy Tabs ////////  -->
+    <!--     <script src="_layout/js/easytabs/jquery.easytabs.min.js"></script>  
+    -->    
+    <!-- /// Waypoints ////////  -->
+    <script src="_layout/js/waypoints/waypoints.min.js"></script>
+    <script src="_layout/js/waypoints/waypoints-sticky.min.js"></script>
+    
+    <!-- /// Form validate ////////  -->
+    <!-- <script src="_layout/js/jqueryvalidate/jquery.validate.min.js"></script>-->
+    
+    <!-- /// Form submit ////////  -->
+    <!-- <script src="_layout/js/jqueryform/jquery.form.min.js"></script>-->
+    
+    <!-- /// gMap ////////  -->
+    <!--<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="_layout/js/gmap/jquery.gmap.min.js"></script>-->
+    
+    <!-- /// Scrollspy ////////  -->
+    <script src="_layout/js/scrollspy/scrollspy.min.js"></script>
+
+    <!-- /// Custom JS ////////  -->
+    <script src="_layout/js/custom.js"></script>    
+</body>
+</html>

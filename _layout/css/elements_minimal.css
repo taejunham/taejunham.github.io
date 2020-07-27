@@ -1,0 +1,276 @@
+	/* Accordeon & Toggles*/
+	
+	.accordion,
+	.toggle { margin-bottom: 30px; }
+
+	.accordion-item,
+	.toggle-item { margin-bottom: 10px; }
+
+	.accordion-item-toggle,
+	.toggle-item-toggle {
+		position: relative;
+		display: block;
+		padding: 10px 20px;
+		border: 1px solid #252525;
+		color: #5f5f5f;
+	}
+	
+	a.accordion-item-toggle,
+	a.toggle-item-toggle { color: #5f5f5f; }
+	
+	.accordion-item-toggle:after,
+	.toggle-item-toggle:after {
+		position: absolute;
+		top: 10px;
+		right: 15px;
+		font-size: 18px;
+		content: "+";
+	}
+	
+	.accordion-item-toggle.active:after,
+	.toggle-item-toggle.active:after { content: "-"; }
+	
+	.accordion-item-toggle:hover,
+	.accordion-item-toggle.active,
+	.toggle-item-toggle:hover,
+	.toggle-item-toggle.active { text-decoration: none; }
+	
+	.accordion-item-content,
+	.toggle-item-content { 
+		padding: 15px 20px; 
+		display: none; 
+	}
+	
+	/*
+	 * 1. Clearfix hack 
+	 */
+	.accordion-item-content:after,
+	.toggle-item-content:after { /* 1 */
+		visibility: hidden;
+		display: block;
+		font-size: 0;
+		content: " ";
+		clear: both;
+		height: 0;
+	}
+	
+	@media (max-width: 767px) {
+ 
+	}
+	.alert {
+		padding: 13px 15px;
+		border: 1px solid #d1d1d1;
+		border-radius: 3px;
+		-webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+		        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+		margin-bottom: 30px;
+		background-color: #f8f8f8;
+	}
+	
+	.alert i {
+		position: relative;
+		top: 1px;
+		margin-right: 7px;
+		font-size: 16px;
+	}
+	
+	.alert.info {
+		border: 1px solid #86cde3;
+		background-color: #cce9f2;
+		color: #3194b1;
+	}
+	
+	.alert.success {
+		border: 1px solid #b3cda1;
+		background-color: #d8f1c6;
+		color: #749958;
+	}
+	
+	.alert.error {
+		border: 1px solid #e1a1a1;
+		background-color: #f9d9d9;
+		color: #b55454;
+	}
+	
+	.alert.warning {
+		border: 1px solid #d1c9ae;
+		background-color: #fbf4dd;
+		color: #978c68;
+	} 
+
+/* ==========================================================================
+   #Back to top
+   ========================================================================== */
+
+	#back-to-top {
+		position: fixed;
+		z-index: 10;
+		right: -40px;
+		bottom: 20px;
+		width: 40px;
+		height: 40px;
+		border: 1px solid #252525;
+		background-color: #747474;
+		color: #fafafa;
+		font-size: 30px;
+		line-height: 40px;			
+		text-align: center;
+		text-decoration: none;
+		opacity: 0.5;
+		cursor: pointer;
+		-webkit-transition: all 0.4s ease 0s;
+			 -o-transition: all 0.4s ease 0s;
+				transition: all 0.4s ease 0s;
+	}
+	
+	#back-to-top i {
+		font-size: 22px;
+		line-height: 40px;
+		font-weight: normal;
+		vertical-align: top;
+		-webkit-transition: all 0.4s ease 0s;
+			 -o-transition: all 0.4s ease 0s;
+				transition: all 0.4s ease 0s;
+	}
+	
+	#back-to-top:hover {
+		background-color: rgba(0, 0, 0, 0.7);
+	}
+	
+	#back-to-top:hover i {
+		color: #fff;
+	}
+	
+	#back-to-top.visible {
+		right: 50px;
+	}
+	
+	#back-to-top.gone {
+		right: -50px;
+	}
+	.headline {
+		position: relative;
+		display: inline-block;
+		border: 1px solid #252525;
+		margin-bottom: 120px;
+		color: #252525;
+		font: 12px 'PT Sans', sans-serif;
+		line-height: 20px;
+		text-align: center; 
+	}
+	
+	.headline h1 {
+		padding: 10px 15px;	
+		margin-bottom: 0;
+		text-transform: uppercase;
+		line-height: 53px;
+	}
+	
+	.headline h2 {
+		padding: 30px 40px;	
+		margin-bottom: 0;
+		text-transform: uppercase;
+		line-height: 24px;
+	}
+	
+	.headline p {
+		position: absolute;
+		top: -10px;
+		right: 0;
+		left: 0;
+		letter-spacing: 1px;
+ 		text-transform: uppercase;
+	}
+	
+	.headline p span {
+		padding: 0 10px;
+		background-color: #fff; 
+	}
+	
+	#pageloader {
+		position: fixed;
+		z-index: 999999;
+		width: 100%;
+		height: 100%;
+		background-color: #fff;
+	}
+	
+	.loader-img {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin: -64px 0 0 -64px;
+		text-align: center;
+	}
+	/* ==========================================================================
+   #Custom Lists
+   ========================================================================== */
+
+	/**
+ 	 * Custom lists
+ 	 *
+	 * 1. unstyled list
+	 * 2. list with squares for bullets
+	 * 3. list with discs for bullets
+	 *
+	 */
+	 
+	ul.unstyled { list-style-type: none; } /* 1 */
+	ul.square { list-style-type: square; } /* 2 */
+	ul.circle { list-style-type: circle; } /* 3 */
+	
+	/**
+ 	 * FontAwesome lists
+ 	 *
+	 * 1. Check list
+	 * 2. Plus list
+	 * 3. Pin list
+	 * 4. Fill circle list
+	 *
+	 */
+	 
+	ul.check,								/* 1 */
+	ul.plus,								/* 2 */
+	ul.pin,									/* 3 */
+	ul.fill-circle { list-style: none; }	/* 4 */
+	
+	ul.check li:before,
+	ul.plus li:before,
+	ul.pin li:before,
+	ul.fill-circle li:before { 
+		position: relative;
+		top: -2px;
+		width: auto;
+		height: auto;
+		margin-right: 8px;
+		font-family: 'FontAwesome';
+		font-size: 10px;
+		font-style: normal;
+	}
+	
+	ul.fill-circle li:before { font-size: 7px; }
+	
+	ul.check li:before { content: ""; }
+	ul.plus li:before { content: ""; }
+	ul.pin li:before { content: ""; }
+	ul.fill-circle li:before { content: ""; }	
+	
+/* ==========================================================================
+   #Dividers
+   ========================================================================== */
+
+	.divider { margin: 30px 0; }
+	
+	.divider.single-line { border-top: 1px solid #e2e2e2; }
+	
+	.divider.double-line { border-top: 4px double #e2e2e2; }
+	
+	.divider.single-dotted {
+		 height: 1px;
+		 background: url(../images/bg-single-dotted.gif) repeat-x top left ;  
+	}
+	
+	.divider.double-dotted { 
+		height: 4px;
+		background: url(../images/bg-double-dotted.gif) repeat-x top left; 
+	}	
