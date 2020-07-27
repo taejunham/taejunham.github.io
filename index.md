@@ -23,13 +23,6 @@
     <link rel="stylesheet" href="_layout/css/elements_minimal.css">
     <link rel="stylesheet" href="_layout/css/layout.css">
 
-<!-- /// JS Plugins CSS ////////  -->
-<!-- <link rel="stylesheet" href="_layout/js/bxslider/jquery.bxslider.css">
-<link rel="stylesheet" href="_layout/js/magnificpopup/magnific-popup.css"> -->
-
-<!-- /// Skin CSS ////////  -->
-<!-- <link rel="stylesheet" href="_layout/css/skins/default.css"> 
- -->
 <!-- /// Google Fonts ////////  -->
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Oswald:400,700">
@@ -47,6 +40,13 @@
 <!-- /// Modernizr ////////  -->
 <script src="_layout/js/modernizr-2.6.2.min.js"></script>
 
+<!-- /// JS Plugins CSS ////////  -->
+<!-- <link rel="stylesheet" href="_layout/js/bxslider/jquery.bxslider.css">
+<link rel="stylesheet" href="_layout/js/magnificpopup/magnific-popup.css"> -->
+
+<!-- /// Skin CSS ////////  -->
+<!-- <link rel="stylesheet" href="_layout/css/skins/default.css"> 
+ -->
 </head>
 <body>
 
@@ -135,7 +135,7 @@
                                 <a href="#tag5">Miscellaneous</a>
                             </li>
                             <li>
-                                <a href="cv.pdf">CV</a>
+                                <a href="data/cv.pdf">CV</a>
                             </li>
                         </ul>
     
@@ -453,7 +453,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            MosaicSim:  A Lightweight,&nbsp; Modular Simulator for Heterogeneous Systems <a href="mosaicsim_ispass2020.pdf">[Link]</a><a href="https://arxiv.org/abs/2004.07415">[Extended Technical Report]</a></h3>
+                            MosaicSim:  A Lightweight,&nbsp; Modular Simulator for Heterogeneous Systems <a href="data/mosaicsim_ispass2020.pdf">[Link]</a><a href="https://arxiv.org/abs/2004.07415">[Extended Technical Report]</a></h3>
                             <p>
                                 Opeoluwa  Matthews,&nbsp; Aninda Manocha,&nbsp; Davide Giri,&nbsp; Marcelo Orenes-Vera,&nbsp; Esin Tureci,&nbsp; Tyler Sorensen,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Juan L. Aragon,&nbsp; Luca P. Carloni,&nbsp; Margaret Martonosi<br>
                                 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)<br>
@@ -487,7 +487,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            Genesis: A Hardware Acceleration Framework for Genomic Data Analysis</a> <a href="genesis_isca2020.pdf">[Link]</a></h3>
+                            Genesis: A Hardware Acceleration Framework for Genomic Data Analysis</a> <a href="data/genesis_isca2020.pdf">[Link]</a></h3>
                             <p>
                                 <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; David Bruns-Smith,&nbsp; Brendan Sweeney,&nbsp; Yejin Lee,&nbsp; Seong Hoon Seo,&nbsp; U Gyeong Song,&nbsp; Young H. Oh,&nbsp; Krste Asanovic,&nbsp; Jae W. Lee,&nbsp; Lisa Wu<br>
                                 The 47th ACM/IEEE International Symposium on Computer Architecture (ISCA)<br>
@@ -518,7 +518,7 @@
                     <div class="span9">
                         <div class="cv-item">
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            A Specialized Architecture for Object Serialization with Applications to Big Data Analytics</a> <a href="cereal_isca2020.pdf">[Link]</a></h3>
+                            A Specialized Architecture for Object Serialization with Applications to Big Data Analytics</a> <a href="data/cereal_isca2020.pdf">[Link]</a></h3>
                             <p>
                                 Jaeyoung Jang,&nbsp; Sung Jun Jung,&nbsp; Sunmin Jeong,&nbsp; Jun Heo,&nbsp; Hoon Shin,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee<br>
                                 The 47th ACM/IEEE International Symposium on Computer Architecture (ISCA)<br>
@@ -550,7 +550,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            A Case for Hardware-based Demand Paging </a><a href="hardware_paging_isca2020.pdf">[Link]</a></h3>
+                            A Case for Hardware-based Demand Paging </a><a href="data/hardware_paging_isca2020.pdf">[Link]</a></h3>
                             <p>
                                 Gyusun Lee*,&nbsp; Wenjing Jin*,&nbsp; Wonsuk Song,&nbsp; Jeonghun Gong,&nbsp; Jonghyun Bae,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee,&nbsp; Jinkyu Jeong<br>
                                 The 47th ACM/IEEE International Symposium on Computer Architecture (ISCA)<br>
@@ -588,7 +588,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            IIU: Specialized Architecture for Inverted Index Search <a href="iiu_asplos2020.pdf">[Link]</a></h3>
+                            IIU: Specialized Architecture for Inverted Index Search <a href="data/iiu_asplos2020.pdf">[Link]</a></h3>
                             <p>
                                 Jun Heo,&nbsp; Jaeyeon Won,&nbsp; Yejin Lee,&nbsp; Shivam Bharuka,&nbsp; Jaeyoung Jang,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee<br>
                                 The 25th ACM International Conference on Architectural Support for  Programming Languages and Operating Systems (ASPLOS)<br>
@@ -623,7 +623,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            A<sup>3</sup>: Accelerating Neural Network Attention Mechanism with Approximation <a href="a3_hpca2020.pdf">[Link]</a> <a href="a3_slide_hpca2020.pptx">[Slide]</a></h3>
+                            A<sup>3</sup>: Accelerating Neural Network Attention Mechanism with Approximation <a href="data/a3_hpca2020.pdf">[Link]</a> <a href="data/a3_slide_hpca2020.pptx">[Slide]</a></h3>
                             <p>
                                 <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Sung Jun Jung,&nbsp; Seonghak Kim,&nbsp; Young H. Oh,&nbsp; Yoon Ho Song,&nbsp; Junghoon Park,&nbsp; Sanghee Lee,&nbsp; Kyoung Park,&nbsp; Jae W. Lee,&nbsp; Deog-Kyoon Jeong<br>
                                 The 26th IEEE International Symposium on High Performance Computer Architecture (HPCA)<br>
@@ -658,7 +658,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            Charon: Specialized Near-Memory Processing Architecture for Clearing Dead Objects in Memory <a href="charon_micro19.pdf">[Link]</a></h3>
+                            Charon: Specialized Near-Memory Processing Architecture for Clearing Dead Objects in Memory <a href="data/charon_micro19.pdf">[Link]</a></h3>
                             <p>
                                 Jaeyoung Jang,&nbsp; Jun Heo,&nbsp; Yejin Lee,&nbsp; Jaeyeon Won,&nbsp; Seonghak Kim,&nbsp; Sung Jun Jung,&nbsp; Hakbeom Jang,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee<br>
                                 The 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO)<br>
@@ -691,7 +691,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            SSDStreamer: Specializing I/O Stack for Large-Scale Machine Learning <a href="streamer_ieeemicro19.pdf">[Link]</a></h3>
+                            SSDStreamer: Specializing I/O Stack for Large-Scale Machine Learning <a href="data/streamer_ieeemicro19.pdf">[Link]</a></h3>
                             <p>
                                 Jonghyun Bae,&nbsp; Hakbeom Jang,&nbsp; Jeonghun Gong,&nbsp; Wenjing Jin,&nbsp; Shine Kim,&nbsp; Jaeyoung Jang,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jinkyu Jeong,&nbsp; Jae W. Lee<br>
                                 IEEE Micro,&nbsp; Sep/Oct 2019 <br>
@@ -725,7 +725,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            Asynchronous I/O Stack: A Low-latency Kernel I/O Stack for Ultra-Low Latency SSDs <a href="aio_atc19.pdf">[Link]</a></h3>
+                            Asynchronous I/O Stack: A Low-latency Kernel I/O Stack for Ultra-Low Latency SSDs <a href="data/aio_atc19.pdf">[Link]</a></h3>
                             <p>
                                 Gyusun Lee,&nbsp; Seokha Shin,&nbsp; Wonsuk Song,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee,&nbsp; Jinkyu Jeong<br>
                                 2019 USENIX Annual Technical Conference (ATC) <br>
@@ -760,7 +760,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            Practical Erase Suspension for Modern Low-latency SSDs <a href="es_atc19.pdf">[Link]</a></h3>
+                            Practical Erase Suspension for Modern Low-latency SSDs <a href="data/es_atc19.pdf">[Link]</a></h3>
                             <p>
                                 Shine Kim,&nbsp; Jonghyun Bae,&nbsp; Hakbeom Jang,&nbsp; Wenjing Jin,&nbsp; Jeonghun Gong,&nbsp; Seungyeon Lee,&nbsp; <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Jae W. Lee<br>
                                 2019 USENIX Annual Technical Conference (ATC) <br>
@@ -794,7 +794,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            Efficient Data Supply for Parallel Heterogeneous Architectures <a href="mercury_taco19.pdf">[Link]</a></h3>
+                            Efficient Data Supply for Parallel Heterogeneous Architectures <a href="data/mercury_taco19.pdf">[Link]</a></h3>
                             <p>
                                 <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Juan Luis Aragon,&nbsp; Margaret Martonosi<br>
                                 ACM Transactions on Architecture and Code Optimization (TACO)<br>
@@ -826,7 +826,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            Decoupling Data Supply from Computation for Latency-Tolerant Communication in Heterogeneous Architectures <a href="desc_taco17.pdf">[Link]</a></h3>
+                            Decoupling Data Supply from Computation for Latency-Tolerant Communication in Heterogeneous Architectures <a href="data/desc_taco17.pdf">[Link]</a></h3>
                             <p>
                                 <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Juan Luis Aragon,&nbsp; Margaret Martonosi<br>
                                 ACM Transactions on Architecture and Code Optimization (TACO)<br>
@@ -860,7 +860,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            Graphicionado: A High-Performance and Energy Efficient Accelerator for Graph Analytics <a href="graphicionado_micro16.pdf">[Link]</a> <a href="graphicionado_slide.pdf">[Slide]</a></h3>
+                            Graphicionado: A High-Performance and Energy Efficient Accelerator for Graph Analytics <a href="data/graphicionado_micro16.pdf">[Link]</a> <a href="data/graphicionado_slide.pdf">[Slide]</a></h3>
                             <p>
                                 <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Lisa Wu,&nbsp; Narayanan Sundaram,&nbsp; Nadathur Satish,&nbsp; Margaret Martonosi<br>
                                 The 49th IEEE/ACM International Symposium on Microarchitecture (MICRO) <br>
@@ -896,7 +896,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            DeSC: Decoupled Supply-Compute Communication Management for Heterogeneous Architectures <a href="desc_micro2015.pdf">[Link]</a></h3>
+                            DeSC: Decoupled Supply-Compute Communication Management for Heterogeneous Architectures <a href="data/desc_micro2015.pdf">[Link]</a></h3>
                             <p>
                                 <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Juan Luis Aragon,&nbsp; Margaret Martonosi<br>
                                 The 48th IEEE/ACM International Symposium on Microarchitecture (MICRO)<br>
@@ -933,7 +933,7 @@
                         <div class="cv-item">
                             
                             <h3 class="text-uppercase" style="margin-bottom:2px">
-                            Disintegrated control for energy-efficient and heterogeneous memory systems <a href="taejun_hpca2013.pdf">[Link]</a></h3>
+                            Disintegrated control for energy-efficient and heterogeneous memory systems <a href="data/taejun_hpca2013.pdf">[Link]</a></h3>
                             
                             <p>
                                 <span style="font-weight:700"><u>Tae Jun Ham</u></span>,&nbsp; Bharath K.Chelepalli,&nbsp; Neng Xue,&nbsp; Benjamin C.Lee<br>
@@ -1347,7 +1347,16 @@
     <!-- /// Superfish Menu ////////  -->
     <script src="_layout/js/superfish/hoverIntent.min.js"></script>
     <script src="_layout/js/superfish/superfish.min.js"></script>
-    
+   
+    <!-- /// Waypoints ////////  -->
+    <script src="_layout/js/waypoints/waypoints.min.js"></script>
+    <script src="_layout/js/waypoints/waypoints-sticky.min.js"></script>
+     
+    <!-- /// Scrollspy ////////  -->
+    <script src="_layout/js/scrollspy/scrollspy.min.js"></script>
+
+    <!-- /// Custom JS ////////  -->
+    <script src="_layout/js/custom.js"></script>    
     <!-- /// bxSlider ////////  -->
     <!-- <script src="_layout/js/bxslider/jquery.bxslider.min.js"></script> -->
     
@@ -1367,10 +1376,6 @@
     <!-- /// Easy Tabs ////////  -->
     <!--     <script src="_layout/js/easytabs/jquery.easytabs.min.js"></script>  
     -->    
-    <!-- /// Waypoints ////////  -->
-    <script src="_layout/js/waypoints/waypoints.min.js"></script>
-    <script src="_layout/js/waypoints/waypoints-sticky.min.js"></script>
-    
     <!-- /// Form validate ////////  -->
     <!-- <script src="_layout/js/jqueryvalidate/jquery.validate.min.js"></script>-->
     
@@ -1381,10 +1386,5 @@
     <!--<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
     <script src="_layout/js/gmap/jquery.gmap.min.js"></script>-->
     
-    <!-- /// Scrollspy ////////  -->
-    <script src="_layout/js/scrollspy/scrollspy.min.js"></script>
-
-    <!-- /// Custom JS ////////  -->
-    <script src="_layout/js/custom.js"></script>    
 </body>
 </html>
