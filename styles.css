@@ -350,6 +350,7 @@ section {
     padding: 0.85rem 1rem;
     margin: 0 -1rem;
     border-bottom: 1px solid var(--card-border);
+    scroll-margin-top: 100px; /* Increased to ensure items are clearly visible below fixed navbar */
     transition: all 0.2s ease;
     border-radius: 8px;
 }
@@ -591,3 +592,102 @@ section {
     margin-bottom: 0.5rem;
 }
 
+/* Research Focus Grid */
+.research-focus-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.research-card {
+    background: var(--card-bg);
+    padding: 1rem;
+    border-radius: 12px;
+    border: 1px solid var(--card-border);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.research-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.research-card h3 {
+    font-size: 0.95rem;
+    color: var(--primary);
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid var(--card-border);
+    padding-bottom: 0.25rem;
+    font-weight: 700;
+}
+
+.research-card ul {
+    list-style: none;
+    padding: 0;
+}
+
+.research-card li {
+    font-size: 0.825rem;
+    margin-bottom: 0.6rem;
+    line-height: 1.3;
+}
+
+.research-card .focus-area {
+    display: block;
+    font-weight: 600;
+    color: var(--text-main);
+    margin-bottom: 0.1rem;
+}
+
+.research-card .work-highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    align-items: center;
+}
+
+.research-card .work-name {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
+.research-card .venue-pill {
+    font-size: 0.65rem;
+    font-weight: 800;
+    color: var(--primary);
+    background: var(--bg-alt);
+    padding: 1px 4px;
+    border-radius: 4px;
+    text-transform: uppercase;
+}
+
+@media (max-width: 480px) {
+    .research-focus-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.card-split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+}
+
+.card-split-col h4 {
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid var(--card-border);
+    padding-bottom: 0.2rem;
+}
+
+@media (max-width: 600px) {
+    .card-split {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
